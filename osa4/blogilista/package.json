@@ -22,6 +22,6 @@
     "nodemon": "^1.18.10"
   },
   "jest": {
-   "testEnvironment": "node"
- }
+    "testEnvironment": "node"
+  }
 }
